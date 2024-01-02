@@ -42,11 +42,7 @@ This type of counter is normally referred to as a Down Counter, (CTD). In a bina
 5.Get the timing diagram and RTL realization diagram for respective Counters.
 ```
 ## Program:
-```
-Program for flipflops  and verify its truth table in quartus using Verilog programming.
-Developed by: H.Syed Abdul Wasih
-RegisterNumber:  212221240057
-```
+
 ### UP COUNTER:
 ```
 module now(input clk,input reset,output[0:3]counter);
